@@ -18,6 +18,7 @@
 6. Composición en la POO en Perl. Entregable: perl_exercise_06_composition.pl
 7. Agregación en la POO en Perl. Entregable: perl_exercise_07_aggregation.pl
 
+```sh
 [../trab03]
 |
 |--- perl_exercise_01_poo.pl
@@ -27,6 +28,7 @@
 |--- perl_exercise_05_association.pl
 |--- perl_exercise_06_composition.pl
 |--- perl_exercise_07_aggregation.pl
+```
 
 # Importante
 - No olvide programar en codificación UTF-8 compatible para Unix.
@@ -37,23 +39,23 @@ Puede ser un Playlist o un solo video con indice en la descripción, ejemplo: ht
 
 Algunas referencias:
 
--Moose - The postmodern object system for Perl
+- Moose - The postmodern object system for Perl: 
 https://perlmaven.com/moose
 
--CPAN - Moose - A postmodern object system for Perl 5
+- CPAN - Moose - A postmodern object system for Perl 5: 
 https://metacpan.org/pod/Moose
 
--Object Oriented Perl with Moo
+- Object Oriented Perl with Moo: 
 https://www.youtube.com/watch?v=aRkSb1AUS-0
 
--OOP with Moo
+- OOP with Moo: 
 https://perlmaven.com/oop-with-moo
 
--Source files of http://perlmaven.com/
+- Source files of http://perlmaven.com/: 
 https://github.com/szabgab/perlmaven.com.git
 
--Application running on the server
+- Application running on the server: 
 https://github.com/szabgab/Perl-Maven.git
 
--Perl Programming Course for Beginners
+- Perl Programming Course for Beginners: 
 https://www.youtube.com/watch?v=_DFa26ep-h4
